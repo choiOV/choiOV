@@ -7,9 +7,6 @@
 
 <br>
 
-#### 오픈소스 기여
-[![MDN](https://img.shields.io/badge/Selection-%23404d59.svg?style=for-the-badge&logo=mdnwebdocs&logoColor=%##000000)](https://github.com/mdn/translated-content/pull/28901)
-
-#### 이메일과 블로그
-[![Gmail](https://img.shields.io/badge/gmail-%23404d59.svg?style=for-the-badge&logo=gmail&logoColor=%#EA4335)](mailto:whatsoap0.dev@gmail.com)
-[![Blog](https://img.shields.io/badge/blog-%23404d59.svg?style=for-the-badge&logo=astro&logoColor=%#EA4335)](https://www.choiov-blog.site)
+| 오픈소스 기여 | 이메일 | 블로그 |
+|--------------|--------|--------|
+| [![MDN](https://img.shields.io/badge/Selection-404d59?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://github.com/mdn/translated-content/pull/28901) | [![Gmail](https://img.shields.io/badge/gmail-%23404d59.svg?style=for-the-badge&logo=gmail&logoColor=%#EA4335)](mailto:whatsoap0.dev@gmail.com) | [![Blog](https://img.shields.io/badge/blog-%23404d59.svg?style=for-the-badge&logo=astro&logoColor=%#EA4335)](https://www.choiov-blog.site) |
