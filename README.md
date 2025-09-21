@@ -40,6 +40,6 @@
 
 [알고리즘은 왜 푸는걸까?](https://www.choiov-blog.site/posts/why-solve-algorithms/)
 
-[테스트는 어떻게 좋은 코드를 만드는가(feat. 험블 객체 패턴)](https://www.choiov-blog.site/posts/humble-object-pattern/)
+[테스트는 어떻게 좋은 코드를 만드는가 (feat. 험블 객체 패턴)](https://www.choiov-blog.site/posts/humble-object-pattern/)
 
 ---
