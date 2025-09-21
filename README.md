@@ -31,3 +31,13 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+### 아티클
+
+[요즘 우아한 개발을 읽고](https://www.choiov-blog.site/books/how-woowahan-develops-today/)  
+
+[알고리즘은 왜 푸는걸까?](https://www.choiov-blog.site/posts/why-solve-algorithms/)
+
+[테스트는 어떻게 좋은 코드를 만드는가(feat. 험블 객체 패턴)](https://www.choiov-blog.site/posts/humble-object-pattern/)
